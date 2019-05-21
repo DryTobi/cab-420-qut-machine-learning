@@ -1,4 +1,4 @@
-machine-learning-2013fall
+machine-learning-cab420
 =========================
 
-My machine learning course enrolling in 2013 fall quarter
+QUT's cab420 2017
