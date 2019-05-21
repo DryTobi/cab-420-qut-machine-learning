@@ -1,2 +1,4 @@
-# cab-420-qut-machine-learning
-CAB420 from QUT
+machine-learning-2013fall
+=========================
+
+My machine learning course enrolling in 2013 fall quarter
